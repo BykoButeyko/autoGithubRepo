@@ -1,2 +1,2 @@
 # autoGithubRepo
- This will create a new Github repo.
+ Automation for create a new Github repo.
