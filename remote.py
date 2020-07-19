@@ -3,7 +3,7 @@ import os
 from github import Github
 
 foldername = str(sys.argv[1])
-path = os.environ.get('F:\CODE_WIP\2020\Projects')         # add projects dirctory to the env vars
+path = os.environ.get('mp')         # add projects dirctory to the env vars
 token = os.environ.get('gt')        # add github token to the env vars
 _dir = path + '/' + foldername
 
